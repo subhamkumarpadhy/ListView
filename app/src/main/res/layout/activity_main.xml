@@ -11,6 +11,7 @@
        android:layout_height="wrap_content"
        android:text="@string/Country"
        android:layout_marginTop="10dp"
+       android:layout_marginStart="12dp"
        android:textSize="40sp"
        android:textStyle="bold"/>
    <ListView
